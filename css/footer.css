@@ -1,0 +1,22 @@
+.footer{
+    background: linear-gradient(to bottom, #ffffff 0%, #aad4e5 100%);
+    padding: 1% 0 1% 0;
+    color: var(--white);
+}
+.iconsFoot{
+    text-align:center;
+    padding-right:3.5%;
+}
+#linkedInFoot{
+    width:2.75%;
+}
+#githubFoot{
+    width:3%;
+}
+#resumeFoot{
+    width:4%;
+}
+#codepenFoot{
+    width:3.75%;
+}
+

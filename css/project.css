@@ -1,0 +1,17 @@
+#projects{
+    background: linear-gradient(to top, #aad4e5 0%, #ffffff 100%);
+    padding: 10% 0 10% 0;
+}
+#projects h1{
+    text-align: center;
+    padding: 0 0 10% 0;
+    font-size: 350%;
+}
+.firstproject h5{
+    text-align: center;
+    
+}
+.firstproject p{
+    text-align: center;
+    
+}

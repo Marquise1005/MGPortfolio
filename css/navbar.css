@@ -1,0 +1,30 @@
+.navbar-brand {
+    font-family: var(--font-one);
+    color: black;
+}
+
+.nav-link {
+    color: black;
+    font-family: var(--font-two);
+}
+
+nav {
+    background: linear-gradient(to bottom, #aad4e5 0%, #ffffff 100%);
+    position: fixed;
+    z-index: 501;
+}
+
+
+#navbarSupportedContent{
+    position: left;
+    padding: 0 0 0 50%;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 501;
+    border-top: 0;
+    padding: 1.25;
+}
