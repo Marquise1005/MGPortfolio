@@ -44,10 +44,10 @@ body {
     z-index:1;
     background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/426955/S1.png'),
       url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/426955/S2.png'), url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/426955/S3.png');
-      -webkit-animation: snowFall 10s linear infinite;
-        -moz-animation: snowFall 10s linear infinite;
-        -ms-animation: snowFall 10s linear infinite;
-        animation: snowFall 10s linear infinite;
+      -webkit-animation: snowFall 20s linear infinite;
+        -moz-animation: snowFall 20s linear infinite;
+        -ms-animation: snowFall 20s linear infinite;
+        animation: snowFall 20s linear infinite;
   }
   
   @-webkit-keyframes snowFall {
